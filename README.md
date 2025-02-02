@@ -23,6 +23,13 @@ This project covers fundamental PySpark operations, including data manipulation,
         - Performing complex column operations (e.g., UDFs, string manipulation, date/time functions).
         - Handling missing data (null values).
         - Aggregating data and performing statistical calculations.
+        
+* **day-3: Handling Missing Values
+    - This notebook delves into handling missing values in PySpark DataFrames, covering:
+	- Identifying and counting missing values.
+	- Dropping rows with missing values.
+	- Replacing missing values with mean, median, or mode imputation.
+	- Using more advanced imputation techniques (e.g., K-Nearest Neighbors).
 
 * **TSLA.csv:**
     - *First Commit:* This dataset (or a similar one) is used for practical examples and demonstrations in the notebooks. It likely contains historical stock data for Tesla (TSLA), allowing for analysis and exploration of time-series data.
